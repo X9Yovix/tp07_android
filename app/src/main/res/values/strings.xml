@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TP07</string>
+    <string name="gestion">Gestion des produits</string>
+    <string name="add">Ajouter un produit</string>
+    <string name="list">Lister les produits</string>
+    <string name="ref">Reference</string>
+    <string name="placeholder_ref">ajouter reference du produit</string>
+    <string name="design">Designation</string>
+    <string name="placeholder_des">ajouter designation du produit</string>
+    <string name="prix">Prix</string>
+    <string name="placeholder_prix">ajouter prix du produit</string>
+    <string name="qty">Quantité</string>
+    <string name="placeholder_qty">ajouter quantité du produit</string>
+    <string name="enregister">Enregistrer</string>
+    <string name="annuler">Annuler</string>
+    <string name="edit">Modifier</string>
+    <string name="delete">Supprimer</string>
+    <string name="update">MAJ</string>
+    <string name="update_product">Modifier le produit</string>
+    <string name="btn_find">Rechercher Produit</string>
+
+</resources>
